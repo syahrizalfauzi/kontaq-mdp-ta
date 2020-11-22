@@ -130,7 +130,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.mdp_ta"
+        applicationId "com.rizal.kontaq"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1
