@@ -26,7 +26,7 @@ const App = () => {
         <Stack.Screen name="Splash" component={SplashScreen} options={{headerShown: false}}/>
         <Stack.Screen name="Contacts" component={Contacts} options={{headerShown: false}}/>
         <Stack.Screen name="Profile" component={Profile}/>
-        <Stack.Screen name="Detail" component={Detail} />
+        <Stack.Screen name="Detail" component={Detail}/>
       </Stack.Navigator>
     </NavigationContainer>
   );
