@@ -14,8 +14,8 @@ import {createStackNavigator} from '@react-navigation/stack';
 // import Dashboard from './lib/screens/dashboard/dashboard';
 import Detail from './lib/screens/detail';
 import SplashScreen from './lib/screens/splashscreen';
-import Profile from './lib/screens/dashboard/profile';
-import Contacts from './lib/screens/dashboard/contacts';
+import Profile from './lib/screens/profile';
+import Contacts from './lib/screens/contacts';
 
 const Stack = createStackNavigator();
 
